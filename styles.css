@@ -1,0 +1,29 @@
+.jumbotron{
+    background-color:burlywood;
+}
+.Original_title{
+    background-color: blue;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 2px;
+}
+.summary_title{
+    background-color:greenyellow;
+    font-size: 20px;
+    font-weight: bold;
+    padding: 2px;
+
+}
+.srt{
+    display: flex;
+    flex-direction: row;
+}
+.original-text{
+    background-color: orangered;
+    padding: 20px;
+}
+.summary-text{
+    background-color: greenyellow;
+    padding: 20px;
+    margin-left: 10px;
+}
